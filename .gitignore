@@ -1,0 +1,12 @@
+#Some truly hideous working models, some may be of interest
+notebook_archive/*
+!notebook_archive/model_v4.ipynb
+!notebook_archive/random_date_algos.ipynb
+!notebook_archive/UPDRS3_exploration.ipynb
+!notebook_archive/UPDRS3_v2_exploration.ipynb
+!notebook_archive/UPDRS3_v3.ipynb
+#Private patient data
+data/
+.clj-kondo
+.lsp
+results.png
